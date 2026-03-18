@@ -5,13 +5,13 @@
 A retail store chain tracks daily sales transactions, including order details, customer info, product categories, order items, and order status. The business wants to optimize operations, improve customer experience, and incerase profitability using data-driven decisions.
 
 
-## Problem statment
-The store does notb have a clear idea about :-
+## Problem statement
+The store does not have a clear idea about :-
 1. Which products sell most
 2. customers preference
 3. Which item bring in the most profit and
-4. Where things are going wrong indelivery or operations.
-Because of this, they sre missing chances to earn more, losing customers, and making poor business decisions.
+4. Where things are going wrong in delivery or operations.
+Because of this, they are missing chances to earn more, losing customers, and making poor business decisions.
 
 
 ## Solution
