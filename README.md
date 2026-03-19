@@ -16,3 +16,5 @@ Because of this, they are missing chances to earn more, losing customers, and ma
 
 ## Solution
 They need proper reports and simple insights to understand their sales, customers, and product performance better.
+
+## View Presentation: https://www.canva.com/design/DAHEYkZLNVw/VNCmstbHM8icycz-y_H3JQ/edit?utm_content=DAHEYkZLNVw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
