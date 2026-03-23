@@ -19,3 +19,6 @@ They need proper reports and simple insights to understand their sales, customer
 
 ## View Presentation: 
 ## https://www.canva.com/design/DAHEYkZLNVw/VNCmstbHM8icycz-y_H3JQ/edit?utm_content=DAHEYkZLNVw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Author
+Keerthana amin
